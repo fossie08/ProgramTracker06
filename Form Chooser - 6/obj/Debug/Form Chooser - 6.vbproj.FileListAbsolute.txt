@@ -1,0 +1,5 @@
+\\kes4601-19-fsvr\user\19 intake\19OFoster\SharpDevelop Projects\Form Chooser - 6\Form Chooser - 6\obj\Debug\Form Chooser - 6.vbprojResolveAssemblyReference.cache
+\\kes4601-19-fsvr\user\19 intake\19OFoster\SharpDevelop Projects\Form Chooser - 6\Form Chooser - 6\bin\Debug\Form Chooser - 6.exe
+\\kes4601-19-fsvr\user\19 intake\19OFoster\SharpDevelop Projects\Form Chooser - 6\Form Chooser - 6\bin\Debug\Form Chooser - 6.pdb
+\\kes4601-19-fsvr\user\19 intake\19OFoster\SharpDevelop Projects\Form Chooser - 6\Form Chooser - 6\obj\Debug\Form Chooser - 6.exe
+\\kes4601-19-fsvr\user\19 intake\19OFoster\SharpDevelop Projects\Form Chooser - 6\Form Chooser - 6\obj\Debug\Form Chooser - 6.pdb
